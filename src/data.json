@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "first_name": "Michael",
+            "last_name": "Deveau",
+            "email": "michael_deveau@yahoo.com",
+            "phone": "(760)-525-5189",
+            "county": "San Diego",
+            "is_authenticated": true
+        },
+        {
+            "user_id": 2,
+            "first_name": "Jocelyn",
+            "last_name": "Segura",
+            "email": "jocesegura34@gmail.com",
+            "phone": "(619)-822-5753",
+            "county": "San Diego",
+            "is_authenticated": false
+        }
+    ]
+}

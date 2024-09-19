@@ -1,0 +1,5 @@
+Search website for finding pets
+ - Scrape humane society, pawboost, and other lost/found pet sites
+ - create search/post ability to find pet based off name, breed, date found, date lost, location
+ - allow people to post media and text
+ - easier website to find pets that centralizes everything. views info from pawboost, humane society, and other pet sites
